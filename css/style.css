@@ -1,6 +1,6 @@
 body{
     background-image: url("../img/background/keith-misner-h0Vxgz5tyXA-unsplash.jpg");
-    color: brown;
+    color: #4d0808;
 }
 h1{
     text-align: center;
@@ -11,4 +11,15 @@ a{
 p{
     line-height: 1.5;
     text-indent: 1cm;
+}
+
+table{
+    border: 1px solid #aa7777;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+th, td{
+        border: 1px solid #aa7777;
+    padding: 0.5rem;
 }
